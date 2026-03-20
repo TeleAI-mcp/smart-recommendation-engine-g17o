@@ -1,2 +1,3 @@
-# smart-recommendation-engine-g17o
-Automated issue comment bot repository
+# Smart Recommendation Engine G17O
+
+Automated issue comment bot repository.
